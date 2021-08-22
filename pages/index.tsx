@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Yoyotools's Clicker</title>
+        <title>{"Yoyotools's Clicker"}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
