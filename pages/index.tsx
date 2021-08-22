@@ -1,4 +1,5 @@
 import Head from "next/head";
+import ClickerBox from "./clickerBox";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <main>
         <h1 className="title">Clicker</h1>
       </main>
+      <ClickerBox name="notarock" />
 
       <footer>
         <a
